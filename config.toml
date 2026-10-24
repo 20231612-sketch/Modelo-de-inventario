@@ -1,8 +1,0 @@
-[browser]
-gatherUsageStats = false
-
-[server]
-maxUploadSize = 50
-
-[client]
-toolbarMode = "viewer"
