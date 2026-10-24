@@ -5,7 +5,7 @@ Aplicación web (Streamlit) del modelo de inventario de la dimensión 2 del caso
 (σ_DL, EOQ, factor k, stock de seguridad, punto de reorden, nivel de servicio y costo anual) con el
 **fill rate** como métrica objetivo.
 
-[![Abrir la app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://20231612-sketch.github.io/Modelo-de-inventario/)
+[![Abrir la app](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://modelo-de-inventario-kv4qjhxqy68vfkho3lqd7t.streamlit.app)
 
 > Reemplaza `https://TU-APP.streamlit.app` por la URL que te entregue Streamlit al desplegar (paso 3).
 
